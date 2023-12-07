@@ -1,5 +1,4 @@
 import { useCallback, useEffect, useRef, useState } from 'react';
-import './App.css';
 import styled from 'styled-components';
 
 const StyledDiv = styled.div`
